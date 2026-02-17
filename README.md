@@ -1,33 +1,19 @@
 # Hi 
+
+
+I'm Jean, a FullStack Developer / Game Developer based in Colombia 🇨🇴. 
+I enjoy creating things, understanding how systems work, and constantly improving processes. 
+Curiosity and continuous learning are a big part of how I approach my work and personal projects.
+
+
+A bit more about me
+---
 <img height="200" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdkbDhzNWxzZHc4anRuYjNjZ2Rub3YwN2d5Z2dydWp5M2pmazZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"  />
 
-###
+- I love tea and coffee 🍵
+- Videogames and music are a incredible inspiration for me
+- Always ready to any challenge that aproaches
 
-<p align="left">I'm Jean, a FullStack Developer / Game Developer based in Colombia 🇨🇴. <br>I enjoy creating things, understanding how systems work, and constantly improving processes. Curiosity and continuous learning are a big part of how I approach my work and personal projects.</p>
-
-###
-
-<h2 align="left">A bit more about me</h2>
-
-###
-
-<p align="left">I enjoy optimizing workflows and procedures<br>Videogames are a big source of inspiration<br> I like sketching and visual thinking<br> Coffee and tea enthusiast</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="60" alt="godot logo"  />
-</div>
 
 ###
 
@@ -47,6 +33,6 @@
 </div>
 
 ###
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iymucwy3momggb5q8ry0iwefu)
 
 ###
