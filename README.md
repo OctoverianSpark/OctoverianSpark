@@ -1,46 +1,52 @@
-# Hi there 👋
+# Hi 
+<img height="200" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdkbDhzNWxzZHc4anRuYjNjZ2Rub3YwN2d5Z2dydWp5M2pmazZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"  />
 
-Welcome to my GitHub profile.
+###
 
----
+<p align="left">I'm Jean, a FullStack Developer / Game Developer based in Colombia 🇨🇴. <br>I enjoy creating things, understanding how systems work, and constantly improving processes. Curiosity and continuous learning are a big part of how I approach my work and personal projects.</p>
 
-## 👤 Who am I?
+###
 
-I'm **Jean**, a software engineer based in **Colombia** 🇨🇴.
-I enjoy creating things, understanding how systems work, and constantly improving processes. Curiosity and continuous learning are a big part of how I approach my work and personal projects.
+<h2 align="left">A bit more about me</h2>
 
----
+###
 
-## 🚧 What am I currently working on?
+<p align="left">I enjoy optimizing workflows and procedures<br>Videogames are a big source of inspiration<br> I like sketching and visual thinking<br> Coffee and tea enthusiast</p>
 
-Right now, I'm focused on **personal projects** and exploring new ideas at my own pace.
-In my free time, I spend time on **game development**, working on a personal project and learning through experimentation.
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="60" alt="godot logo"  />
+</div>
 
-## 🧰 What tools do I use?
+###
 
-I use different tools that help me stay **organized, creative, and productive**.
-They support my workflow for planning ideas, sketching concepts, documenting progress, and turning thoughts into real projects.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OctoverianSpark/OctoverianSpark/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OctoverianSpark/OctoverianSpark/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OctoverianSpark/OctoverianSpark/output/pacman-contribution-graph.svg">
+</picture>
 
----
+###
 
-## 📫 How to reach me?
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+</div>
 
-The best way to reach me is through my **GitHub profile**.
-I'm always open to connecting, sharing ideas, and collaborating.
-
----
-
-## ☕ A bit more about me
-
-* ⚙️ I enjoy optimizing workflows and procedures
-* 🎮 Videogames are a big source of inspiration
-* ✏️ I like sketching and visual thinking
-* 🍵 Coffee and tea enthusiast
-
-Thanks for stopping by 👋
-Feel free to explore my repositories.
+###
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iymucwy3momggb5q8ry0iwefu)
+###
