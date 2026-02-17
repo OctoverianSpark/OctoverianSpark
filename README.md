@@ -41,3 +41,6 @@ I'm always open to connecting, sharing ideas, and collaborating.
 
 Thanks for stopping by 👋
 Feel free to explore my repositories.
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iymucwy3momggb5q8ry0iwefu)
