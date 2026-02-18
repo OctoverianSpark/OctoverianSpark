@@ -15,13 +15,6 @@ A bit more about me
 - Always ready to any challenge that aproaches
 
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OctoverianSpark/OctoverianSpark/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OctoverianSpark/OctoverianSpark/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OctoverianSpark/OctoverianSpark/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
