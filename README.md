@@ -44,7 +44,7 @@ A bit more about me
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iymucwy3momggb5q8ry0iwefu)
 
 ###
-<picture>
+<picture align="right">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OctoverianSpark/OctoverianSpark/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OctoverianSpark/OctoverianSpark/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OctoverianSpark/OctoverianSpark/output/pacman-contribution-graph.svg">
