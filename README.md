@@ -18,7 +18,6 @@ A bit more about me
 
 - I love tea and coffee 🍵
 - Videogames and music are a incredible inspiration for me
-- I like trains 😐
 - Always ready to any challenge that aproaches
 
 
